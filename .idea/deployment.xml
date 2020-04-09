@@ -5,7 +5,7 @@
       <paths name="skylark@202.120.48.24:30055">
         <serverdata>
           <mappings>
-            <mapping deploy="./Vocabulary_Analysis" local="$PROJECT_DIR$" />
+            <mapping deploy="Vocabulary_Analysis" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>

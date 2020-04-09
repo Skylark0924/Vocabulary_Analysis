@@ -1,13 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fe1faeb-6e1d-4a79-8d41-ce48b5f850d6" name="Default Changelist" comment="" />
+    <list default="true" id="7fe1faeb-6e1d-4a79-8d41-ce48b5f850d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preparation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECDICT/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECDICT/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECDICT/dictutils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECDICT/ecdict.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECDICT/ecdict.mini.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECDICT/lemma.en.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECDICT/linguist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECDICT/resemble.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECDICT/stardict.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECDICT/stardict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECDICT/wordroot.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aFVcHwBwkVAsBvMcc1olWrJXcF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,6 +62,59 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.analysis">
+    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Vocabulary_Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preparation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Vocabulary_Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Github\Vocabulary_Analysis\preparation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.analysis" />
+      <item itemvalue="Python.preparation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.analysis" />
+        <item itemvalue="Python.preparation" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -45,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586331406816</updated>
       <workItem from="1586331409865" duration="135000" />
-      <workItem from="1586331737685" duration="568000" />
+      <workItem from="1586331737685" duration="11486000" />
     </task>
     <servers />
   </component>
@@ -53,9 +147,56 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="261" y="104" key="#Deployment" timestamp="1586331544979">
+    <state x="261" y="104" key="#Deployment" timestamp="1586350500320">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state x="261" y="104" key="#Deployment/0.0.1333.889@0.0.1333.889" timestamp="1586331544979" />
+    <state x="261" y="104" key="#Deployment/0.0.1333.889@0.0.1333.889" timestamp="1586350500320" />
+    <state x="124" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586407071158">
+      <screen x="0" y="0" width="1333" height="889" />
+    </state>
+    <state x="124" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1333.889@0.0.1333.889" timestamp="1586407071158" />
+    <state width="1291" height="118" key="GridCell.Tab.0.bottom" timestamp="1586410195119">
+      <screen x="0" y="0" width="1333" height="889" />
+    </state>
+    <state width="1291" height="118" key="GridCell.Tab.0.bottom/0.0.1333.889@0.0.1333.889" timestamp="1586410195119" />
+    <state width="1291" height="118" key="GridCell.Tab.0.center" timestamp="1586410195119">
+      <screen x="0" y="0" width="1333" height="889" />
+    </state>
+    <state width="1291" height="118" key="GridCell.Tab.0.center/0.0.1333.889@0.0.1333.889" timestamp="1586410195119" />
+    <state width="1291" height="118" key="GridCell.Tab.0.left" timestamp="1586410195118">
+      <screen x="0" y="0" width="1333" height="889" />
+    </state>
+    <state width="1291" height="118" key="GridCell.Tab.0.left/0.0.1333.889@0.0.1333.889" timestamp="1586410195118" />
+    <state width="1291" height="118" key="GridCell.Tab.0.right" timestamp="1586410195119">
+      <screen x="0" y="0" width="1333" height="889" />
+    </state>
+    <state width="1291" height="118" key="GridCell.Tab.0.right/0.0.1333.889@0.0.1333.889" timestamp="1586410195119" />
+    <state width="1291" height="118" key="GridCell.Tab.1.bottom" timestamp="1586410195122">
+      <screen x="0" y="0" width="1333" height="889" />
+    </state>
+    <state width="1291" height="118" key="GridCell.Tab.1.bottom/0.0.1333.889@0.0.1333.889" timestamp="1586410195122" />
+    <state width="1291" height="118" key="GridCell.Tab.1.center" timestamp="1586410195121">
+      <screen x="0" y="0" width="1333" height="889" />
+    </state>
+    <state width="1291" height="118" key="GridCell.Tab.1.center/0.0.1333.889@0.0.1333.889" timestamp="1586410195121" />
+    <state width="1291" height="118" key="GridCell.Tab.1.left" timestamp="1586410195121">
+      <screen x="0" y="0" width="1333" height="889" />
+    </state>
+    <state width="1291" height="118" key="GridCell.Tab.1.left/0.0.1333.889@0.0.1333.889" timestamp="1586410195121" />
+    <state width="1291" height="118" key="GridCell.Tab.1.right" timestamp="1586410195121">
+      <screen x="0" y="0" width="1333" height="889" />
+    </state>
+    <state width="1291" height="118" key="GridCell.Tab.1.right/0.0.1333.889@0.0.1333.889" timestamp="1586410195121" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="corpus['tag'][i]" />
+        <watch expression="corpus" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Vocabulary_Analysis$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1586409243416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
