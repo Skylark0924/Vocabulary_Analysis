@@ -68,6 +68,9 @@
       <module name="Vocabulary_Analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -155,22 +158,22 @@
       <screen x="0" y="0" width="1333" height="889" />
     </state>
     <state x="124" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1333.889@0.0.1333.889" timestamp="1586407071158" />
-    <state width="1291" height="118" key="GridCell.Tab.0.bottom" timestamp="1586410195119">
+    <state width="1291" height="328" key="GridCell.Tab.0.bottom" timestamp="1586444690741">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state width="1291" height="118" key="GridCell.Tab.0.bottom/0.0.1333.889@0.0.1333.889" timestamp="1586410195119" />
-    <state width="1291" height="118" key="GridCell.Tab.0.center" timestamp="1586410195119">
+    <state width="1291" height="328" key="GridCell.Tab.0.bottom/0.0.1333.889@0.0.1333.889" timestamp="1586444690741" />
+    <state width="1291" height="328" key="GridCell.Tab.0.center" timestamp="1586444690741">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state width="1291" height="118" key="GridCell.Tab.0.center/0.0.1333.889@0.0.1333.889" timestamp="1586410195119" />
-    <state width="1291" height="118" key="GridCell.Tab.0.left" timestamp="1586410195118">
+    <state width="1291" height="328" key="GridCell.Tab.0.center/0.0.1333.889@0.0.1333.889" timestamp="1586444690741" />
+    <state width="1291" height="328" key="GridCell.Tab.0.left" timestamp="1586444690740">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state width="1291" height="118" key="GridCell.Tab.0.left/0.0.1333.889@0.0.1333.889" timestamp="1586410195118" />
-    <state width="1291" height="118" key="GridCell.Tab.0.right" timestamp="1586410195119">
+    <state width="1291" height="328" key="GridCell.Tab.0.left/0.0.1333.889@0.0.1333.889" timestamp="1586444690740" />
+    <state width="1291" height="328" key="GridCell.Tab.0.right" timestamp="1586444690741">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state width="1291" height="118" key="GridCell.Tab.0.right/0.0.1333.889@0.0.1333.889" timestamp="1586410195119" />
+    <state width="1291" height="328" key="GridCell.Tab.0.right/0.0.1333.889@0.0.1333.889" timestamp="1586444690741" />
     <state width="1291" height="118" key="GridCell.Tab.1.bottom" timestamp="1586410195122">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
@@ -187,6 +190,10 @@
       <screen x="0" y="0" width="1333" height="889" />
     </state>
     <state width="1291" height="118" key="GridCell.Tab.1.right/0.0.1333.889@0.0.1333.889" timestamp="1586410195121" />
+    <state x="485" y="357" key="publish.login" timestamp="1586444636763">
+      <screen x="0" y="0" width="1333" height="889" />
+    </state>
+    <state x="485" y="357" key="publish.login/0.0.1333.889@0.0.1333.889" timestamp="1586444636763" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -197,6 +204,6 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Vocabulary_Analysis$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1586409243416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Vocabulary_Analysis$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1586444690719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
