@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fe1faeb-6e1d-4a79-8d41-ce48b5f850d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preparation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/textUI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ECDICT/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ECDICT/README.md" beforeDir="false" />
@@ -17,6 +16,7 @@
       <change beforePath="$PROJECT_DIR$/ECDICT/stardict.7z" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ECDICT/stardict.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ECDICT/wordroot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/preparation.py" beforeDir="false" afterPath="$PROJECT_DIR$/preparation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -63,7 +65,48 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
   </component>
-  <component name="RunManager" selected="Python.analysis">
+  <component name="RunManager" selected="Python.textUI">
+    <configuration name="Vocabulary_Analysis_UI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Vocabulary_Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Github\Vocabulary_Analysis\ui\Vocabulary_Analysis_UI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Vocabulary_Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Vocabulary_Analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,6 +121,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preparation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Vocabulary_Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preparation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,12 +173,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="textUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Vocabulary_Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui/textUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.analysis" />
       <item itemvalue="Python.preparation" />
+      <item itemvalue="Python.preparation (1)" />
+      <item itemvalue="Python.Vocabulary_Analysis_UI" />
+      <item itemvalue="Python.textUI" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.textUI" />
+        <item itemvalue="Python.Vocabulary_Analysis_UI" />
+        <item itemvalue="Python.preparation (1)" />
         <item itemvalue="Python.analysis" />
         <item itemvalue="Python.preparation" />
       </list>
@@ -143,6 +233,9 @@
       <updated>1586331406816</updated>
       <workItem from="1586331409865" duration="135000" />
       <workItem from="1586331737685" duration="11486000" />
+      <workItem from="1586444627889" duration="671000" />
+      <workItem from="1586496851305" duration="5997000" />
+      <workItem from="1586504668612" duration="1398000" />
     </task>
     <servers />
   </component>
@@ -158,42 +251,42 @@
       <screen x="0" y="0" width="1333" height="889" />
     </state>
     <state x="124" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1333.889@0.0.1333.889" timestamp="1586407071158" />
-    <state width="1291" height="328" key="GridCell.Tab.0.bottom" timestamp="1586444690741">
+    <state width="1291" height="-12" key="GridCell.Tab.0.bottom" timestamp="1586506070641">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state width="1291" height="328" key="GridCell.Tab.0.bottom/0.0.1333.889@0.0.1333.889" timestamp="1586444690741" />
-    <state width="1291" height="328" key="GridCell.Tab.0.center" timestamp="1586444690741">
+    <state width="1291" height="-12" key="GridCell.Tab.0.bottom/0.0.1333.889@0.0.1333.889" timestamp="1586506070641" />
+    <state width="1291" height="-12" key="GridCell.Tab.0.center" timestamp="1586506070641">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state width="1291" height="328" key="GridCell.Tab.0.center/0.0.1333.889@0.0.1333.889" timestamp="1586444690741" />
-    <state width="1291" height="328" key="GridCell.Tab.0.left" timestamp="1586444690740">
+    <state width="1291" height="-12" key="GridCell.Tab.0.center/0.0.1333.889@0.0.1333.889" timestamp="1586506070641" />
+    <state width="1291" height="-12" key="GridCell.Tab.0.left" timestamp="1586506070640">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state width="1291" height="328" key="GridCell.Tab.0.left/0.0.1333.889@0.0.1333.889" timestamp="1586444690740" />
-    <state width="1291" height="328" key="GridCell.Tab.0.right" timestamp="1586444690741">
+    <state width="1291" height="-12" key="GridCell.Tab.0.left/0.0.1333.889@0.0.1333.889" timestamp="1586506070640" />
+    <state width="1291" height="-12" key="GridCell.Tab.0.right" timestamp="1586506070641">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state width="1291" height="328" key="GridCell.Tab.0.right/0.0.1333.889@0.0.1333.889" timestamp="1586444690741" />
-    <state width="1291" height="118" key="GridCell.Tab.1.bottom" timestamp="1586410195122">
+    <state width="1291" height="-12" key="GridCell.Tab.0.right/0.0.1333.889@0.0.1333.889" timestamp="1586506070641" />
+    <state width="1291" height="286" key="GridCell.Tab.1.bottom" timestamp="1586506070636">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state width="1291" height="118" key="GridCell.Tab.1.bottom/0.0.1333.889@0.0.1333.889" timestamp="1586410195122" />
-    <state width="1291" height="118" key="GridCell.Tab.1.center" timestamp="1586410195121">
+    <state width="1291" height="286" key="GridCell.Tab.1.bottom/0.0.1333.889@0.0.1333.889" timestamp="1586506070636" />
+    <state width="1291" height="286" key="GridCell.Tab.1.center" timestamp="1586506070635">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state width="1291" height="118" key="GridCell.Tab.1.center/0.0.1333.889@0.0.1333.889" timestamp="1586410195121" />
-    <state width="1291" height="118" key="GridCell.Tab.1.left" timestamp="1586410195121">
+    <state width="1291" height="286" key="GridCell.Tab.1.center/0.0.1333.889@0.0.1333.889" timestamp="1586506070635" />
+    <state width="1291" height="286" key="GridCell.Tab.1.left" timestamp="1586506070635">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state width="1291" height="118" key="GridCell.Tab.1.left/0.0.1333.889@0.0.1333.889" timestamp="1586410195121" />
-    <state width="1291" height="118" key="GridCell.Tab.1.right" timestamp="1586410195121">
+    <state width="1291" height="286" key="GridCell.Tab.1.left/0.0.1333.889@0.0.1333.889" timestamp="1586506070635" />
+    <state width="1291" height="286" key="GridCell.Tab.1.right" timestamp="1586506070636">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state width="1291" height="118" key="GridCell.Tab.1.right/0.0.1333.889@0.0.1333.889" timestamp="1586410195121" />
-    <state x="485" y="357" key="publish.login" timestamp="1586444636763">
+    <state width="1291" height="286" key="GridCell.Tab.1.right/0.0.1333.889@0.0.1333.889" timestamp="1586506070636" />
+    <state x="485" y="357" key="publish.login" timestamp="1586504871114">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state x="485" y="357" key="publish.login/0.0.1333.889@0.0.1333.889" timestamp="1586444636763" />
+    <state x="485" y="357" key="publish.login/0.0.1333.889@0.0.1333.889" timestamp="1586504871114" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -204,6 +297,8 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Vocabulary_Analysis$Vocabulary_Analysis.coverage" NAME="Vocabulary_Analysis Coverage Results" MODIFIED="1586504761080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
     <SUITE FILE_PATH="coverage/Vocabulary_Analysis$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1586444690719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Vocabulary_Analysis$preparation__1_.coverage" NAME="preparation (1) Coverage Results" MODIFIED="1586497567406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

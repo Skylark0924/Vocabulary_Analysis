@@ -1,6 +1,5 @@
 import pandas as pd
-
-corpus = pd.read_csv('./ECDICT/ecdict.csv', sep=',', error_bad_lines=False, index_col=False, dtype='unicode')
+import os
 
 
 def ielts_sift():
@@ -27,7 +26,18 @@ def vocab_sift(tag_list, tag_name):
     return vocab
 
 
+def words_in_class():
+    dir_path = '/home/skylark/PycharmRemote/Vocabulary_Analysis/IELTS词汇_词以类记（完整版）/IELTS词汇_词以类记（完整版）/'
+    files = os.listdir(dir_path)
+    for file in files:
+        print(file)
+
+
 if __name__ == '__main__':
-    ielts_tag = ielts_sift()
-    vocab_list = vocab_sift(ielts_tag, tag_name='IELTS')
+    # corpus = pd.read_csv('./ECDICT/ecdict.csv', sep=',', error_bad_lines=False, index_col=False, dtype='unicode')
+    # ielts_tag = ielts_sift()
+    # vocab_list = vocab_sift(ielts_tag, tag_name='IELTS')
+
+
+    words_in_class()
     print('OK')
