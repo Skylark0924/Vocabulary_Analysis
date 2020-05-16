@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fe1faeb-6e1d-4a79-8d41-ce48b5f850d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ECDICT/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ECDICT/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ECDICT/dictutils.py" beforeDir="false" />
@@ -13,9 +14,6 @@
       <change beforePath="$PROJECT_DIR$/ECDICT/stardict.7z" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ECDICT/stardict.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ECDICT/wordroot.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preparation.py" beforeDir="false" afterPath="$PROJECT_DIR$/preparation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/Vocabulary_Analysis_UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/Vocabulary_Analysis_UI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,6 +240,7 @@
       <workItem from="1586496851305" duration="5997000" />
       <workItem from="1586504668612" duration="1398000" />
       <workItem from="1587004671142" duration="717000" />
+      <workItem from="1589618320890" duration="61000" />
     </task>
     <servers />
   </component>
@@ -249,10 +248,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="261" y="104" key="#Deployment" timestamp="1586350500320">
+    <state x="261" y="104" key="#Deployment" timestamp="1589618381007">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
-    <state x="261" y="104" key="#Deployment/0.0.1333.889@0.0.1333.889" timestamp="1586350500320" />
+    <state x="261" y="104" key="#Deployment/0.0.1333.889@0.0.1333.889" timestamp="1589618381007" />
     <state x="124" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586407071158">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
@@ -273,6 +272,10 @@
       <screen x="0" y="0" width="1333" height="889" />
     </state>
     <state width="1291" height="286" key="GridCell.Tab.1.right/0.0.1333.889@0.0.1333.889" timestamp="1586506070636" />
+    <state x="426" y="96" key="ftp.server.browser" timestamp="1589618363680">
+      <screen x="0" y="0" width="1333" height="889" />
+    </state>
+    <state x="426" y="96" key="ftp.server.browser/0.0.1333.889@0.0.1333.889" timestamp="1589618363680" />
     <state x="485" y="357" key="publish.login" timestamp="1587010308293">
       <screen x="0" y="0" width="1333" height="889" />
     </state>
