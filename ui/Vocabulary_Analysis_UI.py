@@ -21,7 +21,7 @@ import sys
 
 class Ui_MainWindow(QMainWindow):
     def setupUi(self):
-        self.setWindowState(QtCore.Qt.WindowMaximized)
+        # self.setWindowState(QtCore.Qt.WindowMaximized)
         self.pushButton_clear = QPushButton('Clear')
         self.pushButton_clear.setStyleSheet("QPushButton{background-color:white;\
                                                     color: black;   border-radius: 10px;  border: 3px groove darkgray; border-style: outset;width:280px;}"
